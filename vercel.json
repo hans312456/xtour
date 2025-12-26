@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://xtournament-pro-f1420d41.base44.app",
+      "permanent": true
+    }
+  ]
+}
