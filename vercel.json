@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://xtournament-pro-f1420d41.base44.app/$1"
+      "destination": "https://xtourclub.base44.app/$1"
     }
   ]
 }
